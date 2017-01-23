@@ -5,10 +5,12 @@
 
 <http://deepdrive.io/>
 
-[The must-have tool for founders building startups](https://founderkit.com)
+[The must-have tool for founders building startups (https://founderkit.com)](https://founderkit.com)
 
-https://openai.com/blog/universe/ Open AI (see http://deepdrive.io/ DeepDrive in universe)
+<https://openai.com/blog/universe/ Open AI (see http://deepdrive.io/ DeepDrive in universe)>
 
-https://cloud.google.com/
+<https://cloud.google.com/>
 
-https://www.digitalocean.com/community/tutorials
+<https://www.digitalocean.com/community/tutorials>
+
+<https://addyosmani.com/resources/essentialjsdesignpatterns/book/>
