@@ -16,3 +16,5 @@
 <https://addyosmani.com/resources/essentialjsdesignpatterns/book/>
 
 <http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/>
+
+<https://baconjs.github.io/>
