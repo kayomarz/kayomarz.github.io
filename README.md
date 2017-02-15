@@ -1,5 +1,6 @@
 # kayomarz.github.io
 
+Checkout languages: Clojure, Haskell, Dart, Rust, Go
 
 <http://corgibytes.com/blog/2016/12/06/getting-old-er-in-tech/>
 
