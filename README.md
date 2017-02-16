@@ -1,5 +1,9 @@
 # kayomarz.github.io
 
+Checkout tensor flow
+
+<https://github.com/terryum/awesome-deep-learning-papers#understanding--generalization--transfer>
+
 Checkout languages: Clojure, Haskell, Dart, Rust, Go
 
 <https://techspecs.blog/blog/2017/2/14/googles-not-so-secret-new-os>: 
