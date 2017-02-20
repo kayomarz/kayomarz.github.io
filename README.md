@@ -1,5 +1,8 @@
 # kayomarz.github.io
 
+https://www.twilio.com/
+https://www.indiehackers.com/businesses/cronitor
+
 Checkout tensor flow
 
 <https://github.com/terryum/awesome-deep-learning-papers#understanding--generalization--transfer>
