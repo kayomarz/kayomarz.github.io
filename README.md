@@ -32,4 +32,13 @@ Mojo in Fuchsia features intriguingly extensive language support. C/C++, Dart, G
 
 <https://github.com/SBoudrias/grouped-queue>
 
-Good JS, AngularJS blog <https://www.accelebrate.com>
+### Angular JS
+
+<https://www.accelebrate.com> Good JS, AngularJS articles
+
+http://jimhoskins.com/2012/12/17/angularjs-and-apply.html $appy, $digest
+
+http://angular-tips.com/blog/2013/08/watch-how-the-apply-runs-a-digest/ $watch, $appy, $digest, dirty-checking
+
+http://angular-tips.com/blog Blog by a sr.technical writer of the core Angular documentation team
+
