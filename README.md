@@ -31,3 +31,5 @@ Mojo in Fuchsia features intriguingly extensive language support. C/C++, Dart, G
 <https://baconjs.github.io/>
 
 <https://github.com/SBoudrias/grouped-queue>
+
+Good JS, AngularJS blog <https://www.accelebrate.com>
