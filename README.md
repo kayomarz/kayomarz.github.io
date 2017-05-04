@@ -34,6 +34,8 @@ Mojo in Fuchsia features intriguingly extensive language support. C/C++, Dart, G
 
 <https://github.com/SBoudrias/grouped-queue>
 
+<http://blog.orfjackal.net/2009/05/converting-confused-svn-repositories-to.html> GIT SVN including branching
+
 ### Angular JS
 
 <https://www.accelebrate.com> Good JS, AngularJS articles
