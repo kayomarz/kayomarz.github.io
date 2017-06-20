@@ -1,5 +1,8 @@
 # kayomarz.github.io
 
+https://aestheticio.com/become-better-programmer-learning-understand-code/ Learning how you understand code.
+https://aestheticio.com/become-a-better-programmer-tame-complexity/ Taming complexity.
+
 https://www.owasp.org Open Web Application Security Project
 
 https://www.twilio.com/
