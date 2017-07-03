@@ -1,5 +1,6 @@
 # kayomarz.github.io
 
+https://github.com/pzhaonet/mindr
 https://aestheticio.com/become-better-programmer-learning-understand-code/ Learning how you understand code.
 https://aestheticio.com/become-a-better-programmer-tame-complexity/ Taming complexity.
 
