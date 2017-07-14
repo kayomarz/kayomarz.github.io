@@ -1,5 +1,6 @@
 # kayomarz.github.io
 
+https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month?ref=reddit Interesting technologies mentioned in this article .
 https://software.intel.com/en-us/articles/nuts-and-bolts-of-multithreaded-programming
 https://github.com/pzhaonet/mindr
 https://aestheticio.com/become-better-programmer-learning-understand-code/ Learning how you understand code.
