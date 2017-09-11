@@ -1,5 +1,6 @@
 # kayomarz.github.io
 
+http://irreal.org/blog/
 https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month?ref=reddit Interesting technologies mentioned in this article .
 https://software.intel.com/en-us/articles/nuts-and-bolts-of-multithreaded-programming
 https://github.com/pzhaonet/mindr
