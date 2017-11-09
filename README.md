@@ -1,7 +1,14 @@
 # kayomarz.github.io
 
 http://irreal.org/blog/
-https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month?ref=reddit Interesting technologies mentioned in this article .
+
+https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month?ref=reddit Interesting technologies mentioned in this article.
+
+https://medium.com/unicorn-supplies/9-steps-how-to-choose-a-technology-stack-for-your-web-application-a6e302398e55
+
+https://github.com/sindresorhus/awesome
+https://www.thoughtworks.com/de/radar
+
 https://software.intel.com/en-us/articles/nuts-and-bolts-of-multithreaded-programming
 https://github.com/pzhaonet/mindr
 https://aestheticio.com/become-better-programmer-learning-understand-code/ Learning how you understand code.
