@@ -4,6 +4,8 @@ http://irreal.org/blog/
 
 https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month?ref=reddit Interesting technologies mentioned in this article.
 
+https://research.google.com/colaboratory/
+
 https://www.fullstackreact.com/p/intro-to-flux-and-redux/
 
 https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176 nice external links
