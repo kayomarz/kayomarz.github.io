@@ -4,6 +4,8 @@ http://irreal.org/blog/
 
 https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month?ref=reddit Interesting technologies mentioned in this article.
 
+https://www.fullstackreact.com/p/intro-to-flux-and-redux/
+
 https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176 nice external links
 
 https://medium.com/unicorn-supplies/9-steps-how-to-choose-a-technology-stack-for-your-web-application-a6e302398e55
