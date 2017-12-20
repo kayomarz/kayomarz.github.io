@@ -16,6 +16,11 @@ https://jsbooks.revolunet.com/ JSbooks online
 
 http://asmjs.org/faq.html
 
+https://github.com/addyosmani/es6-tools 
+
+http://2ality.com/2013/02/asm-js.html
+
+
 
 http://irreal.org/blog/
 
