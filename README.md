@@ -12,6 +12,8 @@ https://en.wikipedia.org/wiki/Scope_(computer_science)
 
 https://www.gitbook.com/book/escher/you-don-t-know-js-scope-closures/details
 
+https://jsbooks.revolunet.com/ JSbooks online
+
 http://asmjs.org/faq.html
 
 
