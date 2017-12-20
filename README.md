@@ -1,5 +1,14 @@
 # kayomarz.github.io
 
+https://medium.com/@nickbalestra/javascripts-lexical-scope-hoisting-and-closures-without-mystery-c2324681d4be JS lexical scope, hoisting, closures
+https://github.com/sweet-js/sweet-core JS preprocessor
+https://frontendmasters.com/courses/advanced-javascript/
+https://spin.atomicobject.com/2014/10/20/javascript-scope-closures/
+https://en.wikipedia.org/wiki/Scope_(computer_science)
+https://www.gitbook.com/book/escher/you-don-t-know-js-scope-closures/details
+http://asmjs.org/faq.html
+
+
 http://irreal.org/blog/
 
 https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month?ref=reddit Interesting technologies mentioned in this article.
