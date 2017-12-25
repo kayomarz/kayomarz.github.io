@@ -20,7 +20,7 @@ https://github.com/addyosmani/es6-tools
 
 http://2ality.com/2013/02/asm-js.html
 
-
+http://steve-yegge.blogspot.in/2008/10/universal-design-pattern.html Poperties partern and links to other relatd articles
 
 http://irreal.org/blog/
 
