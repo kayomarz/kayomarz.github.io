@@ -88,3 +88,10 @@ http://angular-tips.com/blog/2013/08/watch-how-the-apply-runs-a-digest/ $watch, 
 
 http://angular-tips.com/blog Blog by a sr.technical writer of the core Angular documentation team
 
+### Terms
+
+Unification 
+
+Classical antiquity: 8th B.C. [Homer - Iliad, Odyssey] - 5th A.D.(decline of roman empire)
+Middle Ages: 5th A.D. - 15th A.D.
+Renaissance: 14th A.D. - 17th A.D.
