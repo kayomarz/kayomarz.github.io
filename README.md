@@ -78,7 +78,7 @@ Mojo in Fuchsia features intriguingly extensive language support. C/C++, Dart, G
 
 <http://blog.orfjackal.net/2009/05/converting-confused-svn-repositories-to.html> GIT SVN including branching
 
-### Angular JS
+## Angular JS
 
 <https://www.accelebrate.com> Good JS, AngularJS articles
 
@@ -88,10 +88,41 @@ http://angular-tips.com/blog/2013/08/watch-how-the-apply-runs-a-digest/ $watch, 
 
 http://angular-tips.com/blog Blog by a sr.technical writer of the core Angular documentation team
 
-### Terms
+## Terms
 
-Unification 
+Unification (Prolog)
 
 Classical antiquity: 8th B.C. [Homer - Iliad, Odyssey] - 5th A.D.(decline of roman empire)
 Middle Ages: 5th A.D. - 15th A.D.
 Renaissance: 14th A.D. - 17th A.D.
+
+## Maths
+
+∈ ∉ ∋ ∌ ∐ ∑ √ ∛ ∝ ∞ ∧ ∨ ∩ ∪ ∴ ∵ ∷ ≤ ≥ ⊂ ⊃ ⊄ ⊅ ⊆ ⊇ ⊈ ⊉ ⨀ ⨁ ⨂
+
+### Variables
+
++ Universal statement (For all elements in a set...)
++ Conditional statement (if one thing is true then some other thing also has to be true)
++ Existential statement (There is at least one thing for which some something is true)
+
+### Sets
+
+ + Set-Roster notation:  {1, 2, 3}
+ + Set-Builder notation: {x ∈ S | P(x)}
+     The set of all elements x in S such that P(x) is true.
+     
+ ### subset
+ 
+ A ⊆ B: A is a subset of B if and only if every element of A is also an element of B.
+ 
+ A ⊄ B: There is at least one element of A that is not an element of B.
+ 
+ A is a proper subset of B if every element of A is in B but there is at least one element of B that is not in A.
+ 
+ ### ordered pairs
+ 
+ Elements of a set are not ordered.
+ 
+ An ordered pair can be denoted as {{a}, {a,b}} or simply (a, b)
+ 
