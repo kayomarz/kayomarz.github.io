@@ -1,5 +1,9 @@
 # kayomarz.github.io
 
+http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/
+
+Patterns: Command pattern
+
 https://medium.com/@nickbalestra/javascripts-lexical-scope-hoisting-and-closures-without-mystery-c2324681d4be JS lexical scope, hoisting, closures
 
 https://github.com/sweet-js/sweet-core JS preprocessor
