@@ -2,9 +2,8 @@
 
 # Variables
 
-+ Universal statement
-  For all elements in a set...
-+ Conditional statement (if one thing is true then some other thing also has to be true)
++ Universal statement (For all elements in a set...)
++ Conditional statement (or material condition?) (if one thing is true then some other thing also has to be true)
 + Existential statement (There is at least one thing for which something is true)
 
 # Sets
@@ -33,9 +32,9 @@ R x R is set of all ordered pairs (x,y) where both are real numbers
 
 cartesian plane (like graphs):
 
-   |
--------
-   |
+       |
+    -------
+       |
 
 
 ## Relation
