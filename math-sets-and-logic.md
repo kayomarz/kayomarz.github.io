@@ -48,15 +48,15 @@ Example: R is a "less than" relation.
 A = {1, 2, 3}   B = {1, 3, 5}
 {(x,y) ∈ AxB | (x,y) ∈ R}
  
-1 Ꞧ 1
-1 R 3
-1 R 5
-2 Ꞧ 1
-2 R 3
-2 R 5
-3 Ꞧ 1
-3 Ꞧ 3
-3 R 5
+    1 Ꞧ 1
+    1 R 3
+    1 R 5
+    2 Ꞧ 1
+    2 R 3
+    2 R 5
+    3 Ꞧ 1
+    3 Ꞧ 3
+    3 R 5
 
 ### Arrow Diagram (of a realation)
 
