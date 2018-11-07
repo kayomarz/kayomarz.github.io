@@ -2,7 +2,8 @@
 
 # Variables
 
-+ Universal statement (For all elements in a set...)
++ Universal statement
+  For all elements in a set...
 + Conditional statement (if one thing is true then some other thing also has to be true)
 + Existential statement (There is at least one thing for which something is true)
 
