@@ -1,4 +1,4 @@
-∈ ∉ ∋ ∌ ∐ ∑ √ ∛ ∝ ∞ ∧ ∨ ∩  ∪ ∴ ∵ ∷ ≮ ≯ ≤ ≥ ⊂ ⊃ ⊄ ⊅ ⊆ ⊇ ⊈ ⊉ ⨀ ⨁ ⨂ → ¬ ∃ ∄ ∀
+∈ ∉ ∋ ∌ Ꞧ R ∐ ∑ √ ∛ ∝ ∞ ∧ ∨ ∩  ∪ ∴ ∵ ∷ ≮ ≯ ≤ ≥ ⊂ ⊃ ⊄ ⊅ ⊆ ⊇ ⊈ ⊉ ⨀ ⨁ ⨂ → ¬ ∃ ∄ ∀
 
 # Variables
 
@@ -48,21 +48,21 @@ Example: R is a "less than" relation.
 A = {1, 2, 3}   B = {1, 3, 5}
 {(x,y) ∈ AxB | (x,y) ∈ R}
  
-1 ∉ 1
-1 ∈ 3
-1 ∈ 5
-2 ∉ 1
-2 ∈ 3
-2 ∈ 5
-3 ∉ 1
-3 ∉ 3
-3 ∈ 5
+1 Ꞧ 1
+1 R 3
+1 R 5
+2 Ꞧ 1
+2 R 3
+2 R 5
+3 Ꞧ 1
+3 Ꞧ 3
+3 R 5
 
 ### Arrow Diagram (of a realation)
 
-a       x
-b  ---> y
-c       z
+    a       x
+    b  ---> y
+    c       z
 
 ### Function
 
@@ -75,20 +75,20 @@ that satisfies the following two properties:
 Because of the definition, it's possible to give the element that corresponds to
 x a special name:
 
-"F of x" writtend as F(x)
+    "F of x" writtend as F(x)
 
 Example:
 The squaring function f from R to R
 
 is defined by the formula:
 
-  f(x) = x2
+    f(x) = x2
 
 or symbolically:
 
-  f: x → x2
+    f: x → x2
 
- since it sends each real number x to x2
+ since it sends each real number `x` to `x2`
 
 # Logic
 
