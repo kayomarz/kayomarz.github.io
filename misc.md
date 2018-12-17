@@ -18,3 +18,5 @@ modern cryptography"
 + Private information retrieval—get database information without server knowing which item was requested.
 + Commitment scheme—allows one to commit to a chosen value while keeping it hidden to others, with the ability to reveal it later.
 + Cryptographically secure pseudorandom number generator.
+
+## Sparse Merket tree
