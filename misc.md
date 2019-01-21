@@ -1,4 +1,11 @@
+
 Books: 
+
+
+http://vmls-book.stanford.edu/vmls.pdf
+ECMA Script: https://tc39.github.io/ecma262/
+
+
 .
 ./Economics in one lesson - Hazlitt00.pdf
 ./computer
